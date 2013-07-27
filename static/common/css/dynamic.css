@@ -1,0 +1,108 @@
+@CHARSET "UTF-8";
+/*
+ * 动态效果CSS部分
+ * 
+ * @author 风格独特
+ * @version 1.0, 2012-08-31
+ */
+
+/* 首页大图切换样式 --start-- */
+#ad_change {
+    position:relative;
+    margin:0 auto;
+    width:960px;
+	overflow:hidden;
+	height:120px;
+}
+#ad_img {
+	white-space:nowrap;
+}
+#ad_change .img_num {
+    top:95px;
+    left:0px;
+    position:absolute;
+    z-index:1000;
+    width:955px;
+}
+#ad_change .img_num p {
+	font-size:14px;
+    float:left;
+	padding:1px 6px;
+    line-height:1.2em;
+    margin-left:1px;
+    text-align:center;
+    cursor:pointer;
+    background:#FFF;
+    font-weight:bold;
+    color:#709F11;
+}
+#ad_change .img_numcheck {
+    background:#709F11!important;
+    color:#FFF!important;
+}
+/* 首页大图切换样式 --end-- */
+
+/* 小图片切换 --start-- */
+#img_change {
+    position:relative;
+    height:200px;
+    overflow:hidden;
+    margin:0 auto;
+    width:260px;
+	text-align:center;
+}
+#img_change .img_num {
+    top:182px;
+    left:0px;
+    position:absolute;
+    z-index:1000;
+    width:260px;
+}
+#img_change .img_num p {
+    float:left;
+    width:18px;
+    height:15px;
+    padding-top:2px;
+    line-height:1.2em;
+    margin-left:2px;
+    text-align:center;
+    cursor:pointer;
+    background:#FFF;
+    font-weight:bold;
+    color:#709F11;
+}
+#img_change .img_numcheck {
+    background:#709F11!important;
+    color:#FFF!important;
+}
+/* 小图片切换--end-- */
+
+.sec_menu {
+    position:absolute;
+    z-index:2000;
+    top:0;
+    left: 0;
+}
+
+/* 导航部分--start-- */
+.naviout {
+    position:absolute;
+    z-index:1000;
+    display:none;
+}
+.naviout a {
+	background-color:rgb(45, 45, 45) !important;
+	color:#ababab !important;
+	padding:0px;
+	width:96px;
+	text-align:center;
+	font-size: 12px!important;
+	height:30px!important;
+	line-height: 30px!important;
+	font-weight:normal!important;
+}
+.naviout a:hover {
+    background-color: #000 !important;
+    color:rgb(255,186,0) !important;
+}
+/* 导航部分--end-- */
