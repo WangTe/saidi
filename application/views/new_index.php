@@ -6,76 +6,10 @@
 <meta http-equiv="imagetoolbar" content="no" />
 <link rel="stylesheet" href="static/common/css/layout.css" type="text/css" />
 <script type="text/javascript" src="static/common/js/jquery-1.4.1.min.js"></script>
-<script type="text/javascript" src="static/common/js/jquery.slidepanel.setup.js"></script>
 <script type="text/javascript" src="static/common/js/jquery.cycle.min.js"></script>
 <script type="text/javascript" src="static/common/js/jquery.cycle.setup.js"></script>
 </head>
 <body>
-<!-- <div style="width:728px;height:90px;margin:0 auto;"><script src="http://www.cssmoban.com/include/new/ggad_728x90.js"></script></div>
-<div class="wrapper col0">
-  <div id="topbar">
-    <div id="slidepanel">
-      <div class="topbox">
-        <h2>Nullamlacus dui ipsum</h2>
-        <p>Nullamlacus dui ipsum conseque loborttis non euisque morbi penas dapibulum orna. Urnaultrices quis curabitur phasellentesque congue magnis vestibulum quismodo nulla et feugiat. Adipisciniapellentum leo ut consequam ris felit elit id nibh sociis malesuada.</p>
-        <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
-      </div>
-      <div class="topbox">
-        <h2>Teachers Login Here</h2>
-        <form action="#" method="post">
-          <fieldset>
-            <legend>Teachers Login Form</legend>
-            <label for="teachername">Username:
-              <input type="text" name="teachername" id="teachername" value="" />
-            </label>
-            <label for="teacherpass">Password:
-              <input type="password" name="teacherpass" id="teacherpass" value="" />
-            </label>
-            <label for="teacherremember">
-              <input class="checkbox" type="checkbox" name="teacherremember" id="teacherremember" checked="checked" />
-              Remember me</label>
-            <p>
-              <input type="submit" name="teacherlogin" id="teacherlogin" value="Login" />
-              &nbsp;
-              <input type="reset" name="teacherreset" id="teacherreset" value="Reset" />
-            </p>
-          </fieldset>
-        </form>
-      </div>
-      <div class="topbox last">
-        <h2>Pupils Login Here</h2>
-        <form action="#" method="post">
-          <fieldset>
-            <legend>Pupils Login Form</legend>
-            <label for="pupilname">Username:
-              <input type="text" name="pupilname" id="pupilname" value="" />
-            </label>
-            <label for="pupilpass">Password:
-              <input type="password" name="pupilpass" id="pupilpass" value="" />
-            </label>
-            <label for="pupilremember">
-              <input class="checkbox" type="checkbox" name="pupilremember" id="pupilremember" checked="checked" />
-              Remember me</label>
-            <p>
-              <input type="submit" name="pupillogin" id="pupillogin" value="Login" />
-              &nbsp;
-              <input type="reset" name="pupilreset" id="pupilreset" value="Reset" />
-            </p>
-          </fieldset>
-        </form>
-      </div>
-      <br class="clear" />
-    </div>
-    <div id="loginpanel">
-      <ul>
-        <li class="left">Log In Here &raquo;</li>
-        <li class="right" id="toggle"><a id="slideit" href="#slidepanel">Administration</a><a id="closeit" style="display: none;" href="#slidepanel">Close Panel</a></li>
-      </ul>
-    </div>
-    <br class="clear" />
-  </div>
-</div> -->
-<!-- ####################################################################################################### -->
 <div class="wrapper col0"></div>
 <div class="wrapper col1">
   <div id="header">
