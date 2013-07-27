@@ -9,8 +9,6 @@
 // 文档加载完后执行所有操作
 $(function() {
     ImageChange("#img_change");
-    ADChange('#ad_change');
-	StuChange('.stu_change');
 });
 
 // 小图片切换部分
@@ -28,6 +26,7 @@ function ImageChange(ID) {
         function() {
             var imgP = $(imgIds[imgIdsNum - 1] + " p");
             var imgSpan = $(imgIds[imgIdsNum - 1] + " span");
+            var titleP = $("#title_change p");
             var checkNum = imgP.index(imgP.filter(".img_numcheck"));
             var nextNum = imgP.index($(this));
             
@@ -40,6 +39,10 @@ function ImageChange(ID) {
             // 数字按钮的切换
             imgP.removeClass("img_numcheck");
             $(this).addClass("img_numcheck");
+            
+            // 标题的改变
+            titleP.css("display", "none");
+            $(titleP[nextNum]).css("display", "block");
             
             // 图片的显示和隐藏
             imgSpan.css("display", "none");
@@ -62,12 +65,17 @@ function ImageAutoChange () {
                     var imgP = $(imgIds[i] + " p");
                     var imgSpan = $(imgIds[i] + " span");
                     var imgPNum = imgP.size();
+                    var titleP = $("#title_change p");
                     var checkNum = imgP.index(imgP.filter(".img_numcheck"));
                     var nextNum = (checkNum + 1) % imgPNum;
                     
                     // 数字按钮的切换
                     imgP.removeClass("img_numcheck");
                     $(imgP[nextNum]).addClass("img_numcheck");
+                    
+                    // 标题的改变
+                    titleP.css("display", "none");
+                    $(titleP[nextNum]).css("display", "block");
                     
                     // 图片的显示和隐藏
                     imgSpan.css("display", "none");

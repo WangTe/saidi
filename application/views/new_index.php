@@ -1,209 +1,210 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
-<title>华智讯教育培训中心</title>
+<title>北京赛迪机电新技术开发公司</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="imagetoolbar" content="no" />
 <link rel="stylesheet" href="static/common/css/layout.css" type="text/css" />
+<link rel="stylesheet" href="static/common/css/index.css" type="text/css" />
+<link rel="stylesheet" href="static/common/css/dynamic.css" type="text/css" />
 <script type="text/javascript" src="static/common/js/jquery-1.4.1.min.js"></script>
 <script type="text/javascript" src="static/common/js/jquery.cycle.min.js"></script>
 <script type="text/javascript" src="static/common/js/jquery.cycle.setup.js"></script>
+<script type="text/javascript" src="static/common/js/main.js"></script>
 </head>
 <body>
-<div class="wrapper col0"></div>
-<div class="wrapper col1">
-  <div id="header">
-    <div id="logo">
-      <h1><a href="#">华智讯教育培训中心</a></h1>
-      <p>华智讯,华智讯培训,教育培训</p>
-    </div>
-    <div id="topnav">
-      <ul>
-        <li class="active"><a href="#">首页</a></li>
-        <li><a href="#">讲师</a></li>
-        <li><a href="#">课程</a></li>
-        <li><a href="#">项目</a></li>
-        <li><a href="#">动态</a></li>
-        <li><a href="#">公益</a></li>
-        <li class="last"><a href="#">关于</a></li>
-      </ul>
-    </div>
-    <br class="clear" />
-  </div>
-</div>
-<!-- ####################################################################################################### -->
-<div class="wrapper col2">
-  <div id="featured_slide">
-    <div class="featured_box"><a href="#"><img src="static/common/img/student_1.jpg" alt="" /></a>
-      <div class="floater">
-        <h2>1. 塑造团队高效执行力</h2>
-        <p>这一系列的问题困扰着每一个管理者，有没有一种管理模式，可以激活团队和组织，使员工能够创造性工作，而不是被动完成任务；使员工能够主动超越目标，而不是应付考核；《团队高效协作与执行管理模式》从组织、文化、人性层面对企业管理过程中面临的实际问题进行深刻剖析，实现“全员、全方位、全过程”的高效能团队管理模式，推动企业管理升级。</p>
-        <p class="readmore"><a href="#">继续阅读 &raquo;</a></p>
-      </div>
-    </div>
-    <div class="featured_box"><a href="#"><img src="static/common/img/student_2.jpg" alt="" /></a>
-      <div class="floater">
-        <h2>2. 卓越班组建设与班组长管理能力提升</h2>
-        <p>现实中这一系列现象令领导头疼，并严重制约着班组发展与绩效成长，而现象背后反映出的则是班组长在管理中缺乏一套行之有效、能够解决以上诸多实际问题的管理模式和管理方法，《如何打造卓越班组》课程全程案例教学，从班组管理中的实际问题入手，提供系统化解决方案：有模式、有机制、有工具、有具体使用方法与技巧，从而提升班组执行力、应变力、凝聚力，并最终形成班组的工作合力！</p>
-        <p class="readmore"><a href="#">继续阅读 &raquo;</a></p>
-      </div>
-    </div>
-    <div class="featured_box"><a href="#"><img src="static/common/img/student_3.jpg" alt="" /></a>
-      <div class="floater">
-        <h2>3. 管理者卓越领导力修炼</h2>
-        <p>很多人对于“领导力”存在理解上的误区，认为领导力就是管理者个人能力和个人魅力，这些固然重要，但是对于组织来说，更重要的是目标，所以领导力必须服务于组织大目标，如果与组织目标背离，那么这种领导力对组织带来的必然是伤害，因此领导力的修炼除了个人魅力和个人能力的提升之外，更要结合组织目标和管理实践才具有实际意义。</p>
-        <p class="readmore"><a href="#">继续阅读 &raquo;</a></p>
-      </div>
-    </div>
-    <div class="featured_box"><a href="#"><img src="static/common/img/student_4.jpg" alt="" /></a>
-      <div class="floater">
-        <h2>4. 团队高效协作与执行管理模式</h2>
-        <p>这一系列的问题困扰着每一个管理者，有没有一种管理模式，可以激活团队和组织，使员工能够创造性工作，而不是被动完成任务；使员工能够主动超越目标，而不是应付考核；《团队高效协作与执行管理模式》从组织、文化、人性层面对企业管理过程中面临的实际问题进行深刻剖析，实现“全员、全方位、全过程”的高效能团队管理模式，推动企业管理升级。</p>
-        <p class="readmore"><a href="#">继续阅读 &raquo;</a></p>
-      </div>
-    </div>
-    <div class="featured_box"><a href="#"><img src="static/common/img/student_5.jpg" alt="" /></a>
-      <div class="floater">
-        <h2>5. 企业应变策略与管理模式升级</h2>
-        <p>面对不断变化的生存环境，该如何应对，已经成为每一个企业家不可逃避的思考，变化是永恒的主题，未来的变化会越来越快，并且很难甚至是无法预测，更难以控制，我们能做的只有积极应变，既然大家都知道要变，为什么有些企业可以应变自如，而有些企业却被宣判了死刑呢？由此可见外部变化考验的不仅是企业老板的洞察力，更需要企业具备实际的应变能力，而企业应变能力的背后是企业卓越管理模式的支撑，企业只有通过管理模式的升级才有可能提升整体应变能力，最终做到以不变应万变！</p>
-        <p class="readmore"><a href="#">继续阅读 &raquo;</a></p>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- ####################################################################################################### -->
-<div class="wrapper col3">
-  <div id="homecontent">
-    <div class="fl_left">
-      <div class="column2">
-        <ul>
-          <li>
-            <h2>课程：团队高效协作与执行管理模式</h2>
-            <div class="imgholder"><img src="static/common/img/video_img4.jpg" alt="" /></div>
-            <!-- <p>团队高效协作与执行管理模式</p> -->
-            <p>这一系列的问题困扰着每一个管理者，有没有一种管理模式，可以激活团队和组织，使员工能够创造性工作，而不是被动完成任务；使员工能够主动超越目标，而不是应付考核。</p>
-            <p class="readmore"><a href="#">免费试听 &raquo;</a></p>
-          </li>
-          <li class="last">
-            <h2>课程：卓越班组建设与班组长管理能力提升</h2>
-            <div class="imgholder"><img src="static/common/img/video_img4.jpg" alt="" /></div>
-            <!-- <p>团队高效协作与执行管理模式</p> -->
-            <p>现实中这一系列现象令领导头疼，并严重制约着班组发展与绩效成长，而现象背后反映出的则是班组长在管理中缺乏一套行之有效、能够解决以上诸多实际问题的管理模式和管理方法。</p>
-            <p class="readmore"><a href="#">免费试听 &raquo;</a></p>
-          </li>
-        </ul>
-        <br class="clear" />
-      </div>
-      <div class="column2">
-        <h2><a href="#">华智讯项目介绍</a></h2>
-        <img class="imgl" src="static/common/img/8.jpg" alt="" />
-        <p>企业培训不是基于知道而培训，而是基于做到而培训，所以一个实效的培训不应只是理念的导入，而更应该注重实操工具的传授。</p>
-        <p>杨帆老师在培训中除了传授知识之外，更注重改变学员的思维方式，因为如何想决定如何做，思维方式不改变，行为是不会改变的，只有学员的思维方式发生了变化，才能真正达成培训的目的：学以致变、学以致用。</p>
-        <p>杨帆老师现具有多年企业管理、培训、及咨询经历，课程内容实战性极强，善于现场解决学员工作中的具体问题，其课程案例众多并以其诙谐、幽默的风格深受学员推崇。</p>
-        <p>授课风格：演说家风采，脱口秀幽默，情景式案例。对问题一针见血，只言片语，改变很多人；用逆向思维导入培训模式，具有实战性，课程与众不同之处在于实战，拒绝空洞的理论和教条。</p>
-      </div>
-    </div>
-    <div class="fl_right">
-      <h2><a href="#">师资团队</a></h2>
-      <ul>
-        <li>
-          <div class="imgholder"><a href="#"><img src="static/common/img/杨帆.png" alt="" /></a></div>
-          <p><strong><a href="#">杨   帆   先生</a></strong></p>
-          <p>中国高企委职业教育专业委员会  特聘专家；北京大学经济学院 客座教授；北京大学政府管理学院  客座教授；中国竞争力研究中心特聘专家；</p>
-        </li>
-        <li>
-          <div class="imgholder"><a href="#"><img src="static/common/img/杨帆.png" alt="" /></a></div>
-          <p><strong><a href="#">杨   帆   先生</a></strong></p>
-          <p>中国高企委职业教育专业委员会  特聘专家；北京大学经济学院 客座教授；北京大学政府管理学院  客座教授；中国竞争力研究中心特聘专家；</p>
-        </li>
-        <li>
-          <div class="imgholder"><a href="#"><img src="static/common/img/杨帆.png" alt="" /></a></div>
-          <p><strong><a href="#">杨   帆   先生</a></strong></p>
-          <p>中国高企委职业教育专业委员会  特聘专家；北京大学经济学院 客座教授；北京大学政府管理学院  客座教授；中国竞争力研究中心特聘专家；</p>
-        </li>
-        <li>
-          <div class="imgholder"><a href="#"><img src="static/common/img/杨帆.png" alt="" /></a></div>
-          <p><strong><a href="#">杨   帆   先生</a></strong></p>
-          <p>中国高企委职业教育专业委员会  特聘专家；北京大学经济学院 客座教授；北京大学政府管理学院  客座教授；中国竞争力研究中心特聘专家；</p>
-        </li>
-        <li class="last">
-          <div class="imgholder"><a href="#"><img src="static/common/img/杨帆.png" alt="" /></a></div>
-          <p><strong><a href="#">杨   帆   先生</a></strong></p>
-          <p>中国高企委职业教育专业委员会  特聘专家；北京大学经济学院 客座教授；北京大学政府管理学院  客座教授；中国竞争力研究中心特聘专家；</p>
-        </li>
-      </ul>
-    </div>
-    <br class="clear" />
-  </div>
-</div>
-<!-- ####################################################################################################### -->
-<!-- <div class="wrapper col4">
-  <div id="footer">
-    <div class="footbox">
-      <h2>Lacus interdum</h2>
-      <ul>
-        <li><a href="#">Lorem ipsum dolor</a></li>
-        <li><a href="#">Suspendisse in neque</a></li>
-        <li><a href="#">Praesent et eros</a></li>
-        <li><a href="#">Lorem ipsum dolor</a></li>
-        <li><a href="#">Suspendisse in neque</a></li>
-        <li class="last"><a href="#">Praesent et eros</a></li>
-      </ul>
-    </div>
-    <div class="footbox">
-      <h2>Lacus interdum</h2>
-      <ul>
-        <li><a href="#">Lorem ipsum dolor</a></li>
-        <li><a href="#">Suspendisse in neque</a></li>
-        <li><a href="#">Praesent et eros</a></li>
-        <li><a href="#">Lorem ipsum dolor</a></li>
-        <li><a href="#">Suspendisse in neque</a></li>
-        <li class="last"><a href="#">Praesent et eros</a></li>
-      </ul>
-    </div>
-    <div class="footbox">
-      <h2>Lacus interdum</h2>
-      <ul>
-        <li><a href="#">Lorem ipsum dolor</a></li>
-        <li><a href="#">Suspendisse in neque</a></li>
-        <li><a href="#">Praesent et eros</a></li>
-        <li><a href="#">Lorem ipsum dolor</a></li>
-        <li><a href="#">Suspendisse in neque</a></li>
-        <li class="last"><a href="#">Praesent et eros</a></li>
-      </ul>
-    </div>
-    <div class="footbox">
-      <h2>Lacus interdum</h2>
-      <ul>
-        <li><a href="#">Lorem ipsum dolor</a></li>
-        <li><a href="#">Suspendisse in neque</a></li>
-        <li><a href="#">Praesent et eros</a></li>
-        <li><a href="#">Lorem ipsum dolor</a></li>
-        <li><a href="#">Suspendisse in neque</a></li>
-        <li class="last"><a href="#">Praesent et eros</a></li>
-      </ul>
-    </div>
-    <div class="footbox last">
-      <h2>Lacus interdum</h2>
-      <ul>
-        <li><a href="#">Lorem ipsum dolor</a></li>
-        <li><a href="#">Suspendisse in neque</a></li>
-        <li><a href="#">Praesent et eros</a></li>
-        <li><a href="#">Lorem ipsum dolor</a></li>
-        <li><a href="#">Suspendisse in neque</a></li>
-        <li class="last"><a href="#">Praesent et eros</a></li>
-      </ul>
-    </div>
-    <br class="clear" />
-  </div>
-</div> -->
-<!-- ####################################################################################################### -->
-<div class="wrapper col5">
-  <div id="copyright">
-    <p class="fl_left">CopyRight &copy; 2011-2013 华智讯教育培训公司 All Rights Reserved - <a href="#">www.hzx.com</a></p>
-    <p class="fl_right">联系电话：010-xxxxxxxx 传真：010-xxxxxxxx</a></p>
-    <br class="clear" />
-  </div>
-</div>
+	<div class="wrapper col1">
+		<div id="header">
+			<div id="logo">
+				<h1>
+					<a href="#">赛迪机电新技术开发公司</a>
+				</h1>
+				<p>赛迪 , 机电新技术</p>
+			</div>
+			<div id="topnav">
+			</div>
+			<br class="clear" />
+		</div>
+	</div>
+	<div id="navi">
+		<div class="box">
+	        <ul>
+	            <li><a href="<?php echo base_url('')?>">首页</a></li>
+	            <li><a href="<?php echo base_url('')?>">产品</a></li>
+	            <li><a href="<?php echo base_url('')?>">应用</a></li>
+	            <li><a href="<?php echo base_url('')?>">技术支持</a></li>
+	            <li><a href="<?php echo base_url('')?>">公司</a></li>
+	            <li>
+	            	<a href="<?php echo base_url('')?>">联系我们</a>
+	                <div class="naviout">
+	                    <a href="<?php echo base_url('')?>">公司简介</a>
+	                    <a href="<?php echo base_url('')?>">荣誉资质</a>
+	                    <a href="<?php echo base_url('')?>">组织机构</a>
+	                    <a href="<?php echo base_url('')?>">联系我们</a>
+	                </div>
+	            </li>
+	            <div class="clear"></div>
+	        </ul>
+	     </div>
+	</div>
+	<!-- ####################################################################################################### -->
+	<div class="wrapper col2">
+		<div id="featured_slide">
+			<div class="featured_box">
+				<a href="#"><img src="static/common/img/temp/1.jpg" alt="" /></a>
+				<div class="floater">
+					<h2>赛迪磁测产品</h2>
+					<p>这一系列的问题困扰着每一个管理者，有没有一种管理模式，可以激活团队和组织，使员工能够创造性工作，而不是被动完成任务；使员工能够主动超越目标，而不是应付考核；《团队高效协作与执行管理模式》从组织、文化、人性层面对企业管理过程中面临的实际问题进行深刻剖析，实现“全员、全方位、全过程”的高效能团队管理模式，推动企业管理升级。</p>
+					<p class="readmore">
+						<a href="#">继续阅读 &raquo;</a>
+					</p>
+				</div>
+			</div>
+			<div class="featured_box">
+				<a href="#"><img src="static/common/img/temp/2.jpg" alt="" /></a>
+				<div class="floater">
+					<h2>多场耦合产品</h2>
+					<p>现实中这一系列现象令领导头疼，并严重制约着班组发展与绩效成长，而现象背后反映出的则是班组长在管理中缺乏一套行之有效、能够解决以上诸多实际问题的管理模式和管理方法，《如何打造卓越班组》课程全程案例教学，从班组管理中的实际问题入手，提供系统化解决方案：有模式、有机制、有工具、有具体使用方法与技巧，从而提升班组执行力、应变力、凝聚力，并最终形成班组的工作合力！</p>
+					<p class="readmore">
+						<a href="#">继续阅读 &raquo;</a>
+					</p>
+				</div>
+			</div>
+			<div class="featured_box">
+				<a href="#"><img src="static/common/img/temp/3.jpg" alt="" /></a>
+				<div class="floater">
+					<h2>三维立体编织机</h2>
+					<p>很多人对于“领导力”存在理解上的误区，认为领导力就是管理者个人能力和个人魅力，这些固然重要，但是对于组织来说，更重要的是目标，所以领导力必须服务于组织大目标，如果与组织目标背离，那么这种领导力对组织带来的必然是伤害，因此领导力的修炼除了个人魅力和个人能力的提升之外，更要结合组织目标和管理实践才具有实际意义。</p>
+					<p class="readmore">
+						<a href="#">继续阅读 &raquo;</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- ####################################################################################################### -->
+	<div class="wrapper col3">
+		<div id="homecontent">
+			<div class="fl_left">
+				<div class="column2">
+					<h2>
+						<a href="#">公司简介</a>
+					</h2>
+					<img class="imgl" src="static/common/img/8.jpg" alt="" />
+					<p style="line-height: 1.8em">北京赛迪机电新技术开发公司（Saidi Technology）是专注于高新设备研发、生产及销售的中关村高新技术企业。成立二十余年来，以清华大学、北京大学等著名高校的科研实力为依托，相继开发了磁性材料检测设备系列，力电磁热多场耦合设备系列，三维立体编制设备系列。各系列产品取得了多项专利，填补多项领域发展空白。公司各设备已被国内数十所大学及大型企业采用，取得了多项科技成果，并远销海外。
+					</p>
+					<p style="line-height: 1.8em"></p>
+				</div>
+				<br class="clear" />
+				<div class="column2">
+					<h2>
+						<a href="#">产品展示</a>
+					</h2>
+					<ul>
+						<li>
+							<div class="imgholder">
+								<img width="180" height="112" src="static/common/img/temp/1.jpg" alt="" />
+							</div>
+							<p class="title_1">赛迪磁测产品</p>
+							<p style="line-height:1.6em">这一系列的问题困扰着每一个管理者，有没有一种管理模式，可以激活团队和组织，使员工能够创造性工作。</p>
+							<p class="readmore">
+								<a href="#">更多内容 &raquo;</a>
+							</p>
+						</li>
+						<li>
+							<div class="imgholder">
+								<img width="180" height="112" src="static/common/img/temp/2.jpg" alt="" />
+							</div>
+							<p class="title_1">多场耦合产品</p>
+							<p style="line-height:1.6em">这一系列的问题困扰着每一个管理者，有没有一种管理模式，可以激活团队和组织，使员工能够创造性工作。</p>
+							<p class="readmore">
+								<a href="#">更多内容 &raquo;</a>
+							</p>
+						</li>
+						<li class="last">
+							<div class="imgholder">
+								<img width="180" height="112" src="static/common/img/temp/3.jpg" alt="" />
+							</div>
+							<p class="title_1">三维立体编织机</p>
+							<p style="line-height:1.6em">现象背后反映出的则是班组长在管理中缺乏一套行之有效、能够解决以上诸多实际问题的管理模式和管理方法。</p>
+							<p class="readmore">
+								<a href="#">更多内容 &raquo;</a>
+							</p>
+						</li>
+					</ul>
+					<br class="clear" />
+				</div>
+			</div>
+			<div class="fl_right">
+				<div>
+					<h2>
+						<a href="#">应用案例</a>
+					</h2>
+		        	<div id="img_change">
+		                <div>
+		                    <span><a href="#"><img src="static/common/img/temp/11.jpg" width="260" height="198" /></a></span>
+		                    <span style="display: none"><a href="#"><img src="static/common/img/temp/12.jpg" width="260" height="198" /></a></span>
+		                    <span style="display: none"><a href="#"><img src="static/common/img/temp/13.jpg" width="260" height="198" /></a></span>
+		                    <span style="display: none"><a href="#"><img src="static/common/img/temp/14.png" width="260" height="198" /></a></span>
+		                </div>
+		                <div class="img_num">
+		                    <div style="float:right">
+		                        <p class="img_numcheck">1</p>
+		                        <p>2</p>
+		                        <p>3</p>
+		                        <p>4</p>
+		                    </div>
+		                </div>
+		            </div>
+		            <div id="title_change">
+		            	<p class="title_2"><a href="#">应用案例1</a></p>
+		            	<p class="title_2" style="display: none;"><a href="#">应用案例2</a></p>
+		            	<p class="title_2" style="display: none;"><a href="#">应用案例3</a></p>
+		            	<p class="title_2" style="display: none;"><a href="#">应用案例4</a></p>
+		            </div>
+				</div>
+				<br class="clear" />
+				<div>
+					<h2>
+						<a href="#">联系我们</a>
+					</h2>
+					<table align="center" width="100%">
+						<tr>
+							<td>联系电话：</td>
+							<td>010-89705188</td>
+						</tr>
+						<tr>
+							<td width="60">传&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;真：</td>
+							<td>010-68764678</td>
+						</tr>
+						<tr>
+							<td>邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱：</td>
+							<td>saidi@saiditech.com</td>
+						</tr>
+						<tr>
+							<td>QQ&nbsp;&nbsp;号码：</td>
+							<td>1234556643</td>
+						</tr>
+						<tr valign="top">
+							<td>地&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;址：</td>
+							<td>北京市昌平区中关村科技园区昌平园创新路15号</td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			<br class="clear" />
+		</div>
+	</div>
+	<!-- ####################################################################################################### -->
+	<div class="wrapper col5">
+		<div id="copyright">
+			<p class="fl_left">
+				CopyRight &copy; 2012-2013 北京赛迪机电新技术开发公司 All Rights Reserved - <a href="#">www.xxx.com</a>
+			</p>
+			<p class="fl_right">
+			</p>
+			<br class="clear" />
+		</div>
+	</div>
 </body>
 </html>

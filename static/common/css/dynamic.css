@@ -45,18 +45,19 @@
 /* 小图片切换 --start-- */
 #img_change {
     position:relative;
-    height:200px;
+    height:210px;
     overflow:hidden;
     margin:0 auto;
-    width:260px;
+    width:278px;
 	text-align:center;
+	border: solid 1px #DDD;
 }
 #img_change .img_num {
-    top:182px;
+    top:190px;
     left:0px;
     position:absolute;
     z-index:1000;
-    width:260px;
+    width:276px;
 }
 #img_change .img_num p {
     float:left;
@@ -69,10 +70,10 @@
     cursor:pointer;
     background:#FFF;
     font-weight:bold;
-    color:#709F11;
+    color:#990000;
 }
 #img_change .img_numcheck {
-    background:#709F11!important;
+    background:#990000!important;
     color:#FFF!important;
 }
 /* 小图片切换--end-- */
