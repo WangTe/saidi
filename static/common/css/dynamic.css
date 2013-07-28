@@ -102,7 +102,7 @@
 	line-height: 30px!important;
 	font-weight:normal!important;
 }
-.naviout a:hover {
+.naviout a:hover , .navihover{
     background-color: #000 !important;
     color:rgb(255,186,0) !important;
 }

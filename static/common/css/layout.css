@@ -76,14 +76,13 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 /* ----------------------------------------------Header-------------------------------------*/
 
 #header{
-	padding:0 0 20px 0;  
+	padding:0;  
 	}
 
 #header #logo{
 	display:block;
 	float:left;
-	width:300px;
-	margin-top:7px;
+	width:500px;
 	overflow:hidden;
 	}
 

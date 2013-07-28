@@ -7,9 +7,11 @@ $(function() {
 function navihover() {
     $("#navi li").hover(
         function(){
+            $(this).addClass('navihover');
             $('div', $(this)).css({'display':'block'});
         },
         function(){
+            $(this).removeClass('navihover');
             $('div', $(this)).css({'display':'none'});
         }
     );

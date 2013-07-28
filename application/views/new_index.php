@@ -11,15 +11,18 @@
 <script type="text/javascript" src="static/common/js/jquery.cycle.min.js"></script>
 <script type="text/javascript" src="static/common/js/jquery.cycle.setup.js"></script>
 <script type="text/javascript" src="static/common/js/main.js"></script>
+<script type="text/javascript" src="static/common/js/navi.js"></script>
 </head>
 <body>
 	<div class="wrapper col1">
 		<div id="header">
 			<div id="logo">
-				<h1>
+				<!-- <h1>
 					<a href="#">赛迪机电新技术开发公司</a>
 				</h1>
 				<p>赛迪 , 机电新技术</p>
+				 -->
+				 <a href="<?php echo base_url();?>"><img src="<?php echo base_url('static/common/img/logo.png'); ?>" alt="logo" /></a>
 			</div>
 			<div id="topnav">
 			</div>
